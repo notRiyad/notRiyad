@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riyad</h1>
 <h3 align="center">A passionate CS Student at EPITA</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/de/0e/50de0eebb7bb31620f3a8cf78d3c9267.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/de/0e/50de0eebb7bb31620f3a8cf78d3c9267.gif">
+ -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notriyad&label=Profile%20views&color=0e75b6&style=flat" alt="notriyad" /> </p>
