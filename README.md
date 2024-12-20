@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notriyad&label=Profile%20views&color=0e75b6&style=flat" alt="notriyad" /> </p>
 
-- 🌱 I’m currently learning **HTML & CSS - Rust**
-
 - 👨‍💻Most of my projects are available at [https://notriyad.github.io/my_portfolio/](https://notriyad.github.io/my_portfolio/)
 
 - 📫 How to reach me **riyad.el-yacoubi@epita.fr**
